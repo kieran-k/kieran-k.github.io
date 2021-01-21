@@ -1,39 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kieran Kelly",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://kieran-k.github.io/images/mlady.jpg",
+    "email": "kierank@hawaii.edu",
+    "phone": "808-772-6016",
+    "website": "https://kieran-k.github.io",
+    "summary": "I am studying for a B.A. in Information & Computer Science at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "99-1004 Ohelopapa PL",
+      "postalCode": "96701",
+      "city": "Aiea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kieran-k",
+        "url": "http://github.com/kieran-k"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kieran-kelly-",
+        "url": "http://linkedin.com/in/kieran-kelly-/"
       }
     ]
   },
@@ -64,9 +54,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -74,19 +62,18 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Information & Computer Science (expected Spring, 2013)",
+      "studyType": "B.A.",
+      "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
