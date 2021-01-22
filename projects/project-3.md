@@ -9,12 +9,12 @@ date: 2020-03-01
 labels:
   - Java
   - Jgrasp
-summary: A command line program simulating adding and maintaing customers for a bank.
+summary: A command line program simulating adding and editing customers for a bank.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/java.png">
 
-A command line program simulating adding and maintaing customers for a bank. 
+A command line program simulating adding and editing customers for a bank. 
 
 This program features the ability to add, delete and show all customers in the bank with error checking. Each customer conatins an account number, a balance and a name. 
 
