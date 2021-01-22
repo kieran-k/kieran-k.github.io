@@ -19,3 +19,5 @@ Simple twitter bot that is able to like, follow and retweet. Main use of this bo
 The bot will pull the "Likes" of a user and retweet them. Purpose for this is to have a seperate account to show interests that might not suit main account tweets. 
 
 This bot is written in python and uses tweepy, tweepy wraps the twitter api for use with python. 
+
+Source Code : coming soon 
