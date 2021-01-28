@@ -6,7 +6,7 @@
     "email": "kierank@hawaii.edu",
     "phone": "808-772-6016",
     "website": "https://kieran-k.github.io",
-    "summary": "I am studying for a B.A. in Information & Computer Science at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I am currently studying for a B.A. in Information & Computer Science at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "99-1004 Ohelopapa PL",
       "postalCode": "96701",
@@ -29,17 +29,17 @@
   },
   "interests": [
     {
-      "name": "programming",
+      "name": "Programming",
       "keywords": [
       ]
     },
     {
-      "name": "data science",
+      "name": "Data Science",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
@@ -52,7 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Python"
       ]
     },
     {
@@ -69,12 +70,14 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Information & Computer Science (expected Spring, 2013)",
+      "area": "Information & Computer Science (expected Spring, 2023)",
       "studyType": "B.A.",
       "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Software Engineering",
+        "Discrete Mathematics for Computer Science"
       ],
     },
     {
@@ -98,7 +101,8 @@
       "summary": "Business Analyst for Teller Application",
       "highlights": [
         "Works with programmer to solve technical issues",
-        "Lead projects and work with departments for new business requirments"
+        "Leads projects for application development for new business requirements"
+        "Works closley with internal and external departments and vendors to complete projects"
       ]
     },
     {
@@ -110,21 +114,34 @@
       "summary": "Bank Teller and Customer Service Representative",
       "highlights": [
         "Process Financial transacations in accordance to federal regulations and internal procedudres",
-        "Build portfolio of personal and business customers to grow and aquire new business"
+        "Builds and maintains portfolio of personal and business customers to grow and aquire new business"
       ]
     }
+     {
+      "company": "In4mation",
+      "position": "Assistant Store Manager",
+      "website": "",
+      "startDate": "2020-04-01",
+      "endDate": "Present",
+      "summary": "Assistant Store Manager for local to Hawaii retail store",
+      "highlights": [
+        "Leads supervision of store operations",
+        "Process and reconcile store cash deposits"
+        "Creates and manages scheudles of shipments, employees and deadlines"
+      ]
+    },
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "Hawaii Foodbank",
       "website": "",
-      "position": "Hawaii Foodbank",
+      "position": "Volunteer",
       "startDate": "2016",
       "endDate": "2020",
       "summary": "",
       "highlights": [
-        "Volunteer in annual food drive",
-        "Aids in help of collecting monetary donations" 
+        "Volunteers support in annual food drive",
+        "Aids in the collection of monetary donations" 
       ]
     }
   ],
