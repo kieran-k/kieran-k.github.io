@@ -1,17 +1,42 @@
 ---
 layout: essay
 type: essay
-title: Reflect on Javascript 1
+title: Reflect on Smart Questions
 # All dates must be YYYY-MM-DD format!
-date: 2021-01-21
+date: 2021-01-28
 labels:
-  - Javascript
+  - Stack Overflow
 ---
 
 
-Before this semester, I was honestly scared to learn Javascript because someone had once told me how hard it was for them to learn. I now can say I think the opposite. Learning the basics of Javascript were not only easy but it was very enjoyable. 
+The following writing will highlight a question following the guidelines by Eric Raymond. I will provide a good example of how to ask a question or the “smart way” and a bad example showing the “not smart way”
 
-I’m a big fan of the slightly simpler syntax than what I am used to. In the first week of this class, I feel like I now have an understanding of Javascript. I also have a much better understanding of objects now. My favorite thing about Javascript so far is being able to return any data type from a function and not only the data type of the parameter to the function like in Java. 
+ 
 
+“Smart” question
 
-I found that the WODs so far have been very useful. I think it’s a good way to be motivated about problems that actually put to use of skill and understanding of programming. It is stressful for me but I have been enjoying it. Our first class WOD for points I was not able to finish. This was a huge bummer and ruined my day. Thinking about it after, I had the exact solution that was shown as an example after the WOD was over and beating myself up for not finishing because of syntax issues and forgetting to change a number was not worth it. I solved the problem immediately in my head and will strive to work on my actual execution in coding. I hope this works for me.
+ 
+
+[smart question](https://stackoverflow.com/questions/65951615/stdasync-race-condition-with-stdreference-wrapper-in-vc-2017)
+
+ 
+
+A synopsis of this issue is relating to an issue in the user’s code. The title of the issue is very specific to the issue and includes the platform the user is using. The question is very detailed and shows multiple snippets of code that were snipped from a larger file. The user explains what exactly they are trying to do while showing the code that is most relevant. User then explains that his approach and why it might not be the best but this shows his competence, research and understanding of the context. User layers the question by explaining their purpose, the problem and finally, the question. User then finishes with courteous regards for anyone reading and willing to help. I found this a very “smart” way to ask a question.
+
+ 
+
+ 
+
+ 
+
+ 
+
+“Not so smart” question
+
+ 
+
+ [not so smart question](https://stackoverflow.com/questions/65946538/c-pointer-array-fill-single-item-but-all-items-filling)
+
+ 
+
+A synopsis of this “not so smart” issue relates to a problem with a user’s code that seems to be a homework question. The title of this issue is very vague and seems a google search would have found a solution for their problem. To me, this shows that the user didn’t take the time to research to fix their code themselves. The user pastes their entire code then a snippet of the area they are having troubles with and finally a screenshot of the code being ran. I find most of that to be unnecessary and the only code that should be posted is of the actual issue specially written for asking the question to avoid convoluting the question. If the user took the time to break down the code for asking the question, I believe they would have solved the issue themselves. I would recommend to this user to take a few hour break then come back to the problem as our Professor recommends.
