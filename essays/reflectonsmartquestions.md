@@ -13,11 +13,11 @@ The following writing will highlight a question following the guidelines by Eric
 
  
 
-“Smart” question
+##“Smart” question
 
  
 
-[smart question](https://stackoverflow.com/questions/65951615/stdasync-race-condition-with-stdreference-wrapper-in-vc-2017)
+[https://stackoverflow.com/questions/65951615/stdasync-race-condition-with-stdreference-wrapper-in-vc-2017](https://stackoverflow.com/questions/65951615/stdasync-race-condition-with-stdreference-wrapper-in-vc-2017)
 
  
 
@@ -31,11 +31,11 @@ A synopsis of this issue is relating to an issue in the user’s code. The title
 
  
 
-“Not so smart” question
+##“Not so smart” question
 
  
 
- [not so smart question](https://stackoverflow.com/questions/65946538/c-pointer-array-fill-single-item-but-all-items-filling)
+ [https://stackoverflow.com/questions/65946538/c-pointer-array-fill-single-item-but-all-items-filling](https://stackoverflow.com/questions/65946538/c-pointer-array-fill-single-item-but-all-items-filling)
 
  
 
