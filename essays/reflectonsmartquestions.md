@@ -1,5 +1,4 @@
-
----
+--
 layout: essay
 type: essay
 title: Reflect on Javascript 1
