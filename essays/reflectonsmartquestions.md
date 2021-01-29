@@ -13,7 +13,7 @@ The following writing will highlight a question following the guidelines by Eric
 
  
 
-##“Smart” question
+## “Smart” question
 
  
 
@@ -31,7 +31,7 @@ A synopsis of this issue is relating to an issue in the user’s code. The title
 
  
 
-##“Not so smart” question
+## “Not so smart” question
 
  
 
