@@ -16,7 +16,7 @@ labels:
 
 <body> 
 
-<div class=”ui first paragraph> 
+<div class=”UI Framworks Essay"> 
 
 <p>Learning HTML and CSS has been quite enjoyable for the most part. I have had no experience with CSS very little experience with HTML through using the old social media website MySpace. Now that I have learned the basics of the two really puts into perspective what can be done but more importantly how much more I have to learn. I believe the start of my learning is with the use of Semantic UI. After using Semantic UI for about a week, I can say that looking at other websites builds has me thinking and understanding how to format areas of websites. Knowing that I am able to mimic a website's build in a fair amount of time is very inspiring being that I had no knowledge of these concepts just a few weeks ago. </p>
 
