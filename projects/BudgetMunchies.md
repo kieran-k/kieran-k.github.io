@@ -1,25 +1,25 @@
----
+ ---
 layout: project
 type: project
-image: images/pie chart.png
-title: New Application
+image: images/logo.png
+title: Budget Munchies
 permalink: projects/newapp
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-01
+date: 2021-05-01
 labels:
   - Project Managment
-  - Business Analyst
-  - JIRA
-  - Testing
-  - Software Development Life Cycle
-  - SDLC
-summary: Professional work project where I co-lead the testing and implementation of a new application. 
+  - Javascript
+  - MongoDB
+  - Meteor 
+  - Software Engineering 
+summary: Group project web application created to cater to college students highlighting simple and healthy recipes 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/pie chart.png">
+<img class="ui medium right floated rounded image" src="../images/landing.png">
 
-I co-lead the testing and implentation of a large scale company wide project. This project was the development and implementation of a new application that affects all departments and daily functions.
+Budget Munchies is a web application created to provide an easy, accessible platform for college students to view, add and save simple and healthy recipes. 
 
-Testing included the creation of over 3000 thousand testcases in accordance to the Software Development Dife Cycle. Testcases included step by step insturctions, expected results, assigned tester, linking to requriment being tested and JIRA listing. Testing also included, opening bugs and defects, addressing hardware issues with tech support, working with the Vendors to correct errors, changing existing policy/procedures and working with multiple departments to ensure a smooth transtion. 
+This application allows for users to create an account to view, save and add recipes for others to see. It is a web application deployed with HTTPS and uses Javascript, React, Meteor and MongoDB. 
 
-Worked through many challenges such as, meeting deadline requirements, obtaining technical solutions for applications from both internal IT departments and external developers and analysts. Reporting and escalating issues to workstream leads and upper management. 
+As a group, we worked through many challenges such as, meeting deadline requirements, obtaining technical solutions for the application, coordinating with each others schedules. My main task was to handle the deployment side of the application and work and triage issues in the database between development and production.
+
