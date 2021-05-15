@@ -15,7 +15,7 @@ labels:
 summary: Group project web application created to cater to college students highlighting simple and healthy recipes 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/landing.png">
+<img class="ui medium right floated rounded image" src="../images/Landing.png">
 
 Budget Munchies is a web application created to provide an easy, accessible platform for college students to view, add and save simple and healthy recipes. 
 
